@@ -11,7 +11,7 @@
 
 <div align="center"> 
 <a href = "mailto:cmp.1a.manubrito322@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="[https://www.linkedin.com/in/emanuella-brito-24923a191/style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/emanuella-brito-24923a191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKvfQeNcTqabtdH99hqfcA%3D%3D)" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"> <img src="[https://www.linkedin.com/in/emanuella-brito-24923a191/style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/emanuella-brito-24923a191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKvfQeNcTqabtdH99hqfcA%3D%3D)" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
  
