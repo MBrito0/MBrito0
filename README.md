@@ -44,6 +44,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MBrito0}/count.svg" /></p> 
 </div>
 
- ![Snake animation](https://github.com/vivianefrts/vivianefrts/blob/output/github-contribution-grid-snake.svg)
+ <br clear="both">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" alt="Snake animation" />
+
