@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Emanuella, tenho 24 anos e sou uma Desenvolvedora Full Stack em formação, do Rio de Janeiro, Brasil.</p>
+<p align="left">Meu nome é Emanuella, sou uma Desenvolvedora Full Stack em formação, do Rio de Janeiro, Brasil.</p>
 
 ###
 
