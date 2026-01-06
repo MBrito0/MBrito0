@@ -1,4 +1,6 @@
-<h1 align="center">Olá! 👋 Eu sou a Emanuella Brito</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient"/>
+  <h1 align="center">Olá! 👋 Eu sou a Emanuella Brito</h1>
 
 <p align="center">
   Desenvolvedora Full Stack formada • Web & Mobile • Rio de Janeiro 🇧🇷
@@ -12,6 +14,9 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+</div>
+
+
 
 ---
 
@@ -19,11 +24,11 @@
 
 Sou **Desenvolvedora Full Stack formada**, com foco em **aplicações web e mobile**, atuando em projetos acadêmicos, pessoais e colaborativos.
 
-🎯 Busco minha **primeira oportunidade como Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções reais.
+🎯 Busco minha **primeira oportunidade como Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
 
-💡 Minha formação em **Gestão de Recursos Humanos** agrega visão de negócio, comunicação, organização e trabalho em equipe — habilidades essenciais para ambientes de tecnologia.
+💡 Minha formação em **Gestão de Recursos Humanos** agrega visão de negócio, comunicação, organização e trabalho em equipe — diferenciais importantes para ambientes de tecnologia.
 
-📚 Atualmente continuo me aperfeiçoando em **Angular, Ionic e TypeScript**, com foco em aplicações modernas e escaláveis.
+☕ Atualmente, estou iniciando uma **especialização em Java**, com foco em back-end e aplicações robustas.
 
 ---
 
@@ -53,7 +58,7 @@ Sistema web com autenticação de usuários, controle de tentativas de login, se
 **Tecnologias:**  
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-🔗 Repositório: *(adicione o link aqui)*
+🔗 https://github.com/MBrito0/sistema-autenticacao-2fa
 
 ---
 
@@ -64,18 +69,18 @@ Aplicação com CRUD completo, níveis de acesso (master e comum), alteração d
 **Tecnologias:**  
 `PHP` `MySQL` `Bootstrap`
 
-🔗 Repositório: *(adicione o link aqui)*
+🔗 https://github.com/MBrito0/sistema-gestao-usuarios
 
 ---
 
-### 🌐 Aplicações Front-end (React / Angular)
+### 📱 Aplicativo Mobile (Ionic + Angular)
 **Descrição:**  
-Projetos focados em componentização, consumo de APIs e boas práticas de interface.
+Projeto mobile completo desenvolvido durante a graduação, utilizando Angular e Ionic, com foco em componentização e boas práticas.
 
 **Tecnologias:**  
-`React` `Angular` `TypeScript` `JavaScript`
+`Ionic` `Angular` `TypeScript`
 
-🔗 Repositório: *(adicione o link aqui)*
+🔗 https://github.com/MBrito0/app-mobile-ionic-angular
 
 ---
 
@@ -86,14 +91,14 @@ Modelagem conceitual, lógica e física de banco de dados, com scripts SQL e con
 **Tecnologias:**  
 `MySQL` `SQL`
 
-🔗 Repositório: *(adicione o link aqui)*
+🔗 https://github.com/MBrito0/modelagem-banco-dados
 
 ---
 
-## 🤝 Participações & Formação
+## 🤝 Formação & Participações
 
-- 🎓 Graduação em **Gestão de Recursos Humanos**
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** — Concluído
+- 🎓 Graduação em **Gestão de Recursos Humanos** — Concluído
 - 💻 Cursos de Back-end, Front-end e Banco de Dados
 - 👩‍💻 Participação em projetos acadêmicos e colaborativos
 
@@ -102,16 +107,25 @@ Modelagem conceitual, lógica e física de banco de dados, com scripts SQL e con
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mbrito0&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbrito0&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MBrito0&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrito0&layout=compact&theme=dracula"/>
 </div>
 
 ---
 
 ## 🐍 Atividade no GitHub
 
-<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" />
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Mbrito0/count.svg"/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MBrito0.MBrito0&left_color=cornflowerblue&right_color=darkslateblue"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MBrito0/MBrito0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MBrito0/MBrito0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MBrito0/MBrito0/output/pacman-contribution-graph.svg">
+</picture>
+
 </p>
