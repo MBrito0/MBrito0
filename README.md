@@ -1,15 +1,15 @@
 <h1 align="center">Olá! 👋 Eu sou a Emanuella Brito</h1>
 
 <p align="center">
-  Desenvolvedora Full Stack em formação • Foco em Web e Mobile • Rio de Janeiro 🇧🇷
+  Desenvolvedora Full Stack formada • Web & Mobile • Rio de Janeiro 🇧🇷
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/emanuella-brito-24923a191" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:emanuella.brito@souunisuam.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -17,71 +17,101 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou **Desenvolvedora Full Stack em formação**, com experiência prática em projetos acadêmicos e pessoais, focados em **aplicações web e mobile**.
+Sou **Desenvolvedora Full Stack formada**, com foco em **aplicações web e mobile**, atuando em projetos acadêmicos, pessoais e colaborativos.
 
-🎯 Meu objetivo é atuar como **Desenvolvedora Júnior**, contribuindo com código limpo, aprendizado contínuo e colaboração em equipe.
+🎯 Busco minha **primeira oportunidade como Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções reais.
 
-💡 Minha formação em **Recursos Humanos** fortalece minhas soft skills, comunicação, organização e visão de negócio — diferenciais importantes para times de tecnologia.
+💡 Minha formação em **Gestão de Recursos Humanos** agrega visão de negócio, comunicação, organização e trabalho em equipe — habilidades essenciais para ambientes de tecnologia.
 
-📚 Atualmente aprofundando conhecimentos em **Angular, Ionic e TypeScript**, com foco em aplicações modernas e escaláveis.
+📚 Atualmente continuo me aperfeiçoando em **Angular, Ionic e TypeScript**, com foco em aplicações modernas e escaláveis.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Front-end
-- HTML5 | CSS3 | JavaScript
-- React | Angular | TypeScript
-- Bootstrap | Ionic
-
-### Back-end
-- Node.js
-- PHP
-- Python
-
-### Banco de Dados
-- MySQL
-
-### Conceitos & Práticas
-- Lógica de Programação
-- CRUD
-- APIs REST
-- Autenticação (incluindo 2FA)
-- Integração Front-end & Back-end
-- Versionamento com Git e GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 **Sistemas Web com PHP e MySQL**  
-Autenticação de usuários, níveis de acesso, logs e segurança.
+### 🔐 Sistema de Autenticação com 2FA
+**Descrição:**  
+Sistema web com autenticação de usuários, controle de tentativas de login, segundo fator de autenticação e registro de logs.
 
-🔹 **Aplicações Front-end com React e Angular**  
-Componentização, consumo de APIs e boas práticas de UI.
+**Tecnologias:**  
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-🔹 **Projetos Acadêmicos e Pessoais**  
-Focados em aprendizado contínuo e aplicação prática dos conceitos estudados.
+🔗 Repositório: *(adicione o link aqui)*
 
-📂 *Confira meus repositórios para ver a evolução dos projetos.*
+---
+
+### 👥 Sistema de Cadastro e Gestão de Usuários
+**Descrição:**  
+Aplicação com CRUD completo, níveis de acesso (master e comum), alteração de senha e controle por sessão.
+
+**Tecnologias:**  
+`PHP` `MySQL` `Bootstrap`
+
+🔗 Repositório: *(adicione o link aqui)*
+
+---
+
+### 🌐 Aplicações Front-end (React / Angular)
+**Descrição:**  
+Projetos focados em componentização, consumo de APIs e boas práticas de interface.
+
+**Tecnologias:**  
+`React` `Angular` `TypeScript` `JavaScript`
+
+🔗 Repositório: *(adicione o link aqui)*
+
+---
+
+### 📊 Projeto de Modelagem de Banco de Dados
+**Descrição:**  
+Modelagem conceitual, lógica e física de banco de dados, com scripts SQL e consultas estratégicas.
+
+**Tecnologias:**  
+`MySQL` `SQL`
+
+🔗 Repositório: *(adicione o link aqui)*
+
+---
+
+## 🤝 Participações & Formação
+
+- 🎓 Graduação em **Gestão de Recursos Humanos**
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
+- 💻 Cursos de Back-end, Front-end e Banco de Dados
+- 👩‍💻 Participação em projetos acadêmicos e colaborativos
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mbrito0&show_icons=true&theme=dracula&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbrito0&layout=compact&theme=dracula" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mbrito0&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbrito0&layout=compact&theme=dracula"/>
 </div>
 
 ---
 
 ## 🐍 Atividade no GitHub
 
-<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" alt="GitHub Snake Animation" />
-
----
+<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mbrito0/count.svg" />
+  <img src="https://profile-counter.glitch.me/Mbrito0/count.svg"/>
 </p>
