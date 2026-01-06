@@ -1,77 +1,87 @@
-<h1 align="left">Oi 👋 Tudo bem?</h1>
+<h1 align="center">Olá! 👋 Eu sou a Emanuella Brito</h1>
 
-###
+<p align="center">
+  Desenvolvedora Full Stack em formação • Foco em Web e Mobile • Rio de Janeiro 🇧🇷
+</p>
 
-<p align="left">Meu nome é Emanuella, sou uma Desenvolvedora Full Stack em formação, do Rio de Janeiro, Brasil.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Criando bugs desde que comecei a programar<br>📚 Atualmente estou aprendendo desenvolvimento mobile com Ionic, Angular e TypeScript<br>🎯 Objetivos: Tornar-me uma desenvolvedora full stack proficiente e contribuir para projetos impactantes<br>🎲 Curiosidade: Tenho formação em Recursos Humanos, o que me ajuda a entender a dinâmica de equipes e a gestão de projetos.</p>
-
-###
-
-<h2 align="left">Eu programo com</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-## Contato 📫
-<br clear="both">
-
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/emanuella-brito-24923a191" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emanuella.brito@souunisuam.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:emanuella.brito@souunisuam.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
+
+## 👩‍💻 Sobre mim
+
+Sou **Desenvolvedora Full Stack em formação**, com experiência prática em projetos acadêmicos e pessoais, focados em **aplicações web e mobile**.
+
+🎯 Meu objetivo é atuar como **Desenvolvedora Júnior**, contribuindo com código limpo, aprendizado contínuo e colaboração em equipe.
+
+💡 Minha formação em **Recursos Humanos** fortalece minhas soft skills, comunicação, organização e visão de negócio — diferenciais importantes para times de tecnologia.
+
+📚 Atualmente aprofundando conhecimentos em **Angular, Ionic e TypeScript**, com foco em aplicações modernas e escaláveis.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-end
+- HTML5 | CSS3 | JavaScript
+- React | Angular | TypeScript
+- Bootstrap | Ionic
+
+### Back-end
+- Node.js
+- PHP
+- Python
+
+### Banco de Dados
+- MySQL
+
+### Conceitos & Práticas
+- Lógica de Programação
+- CRUD
+- APIs REST
+- Autenticação (incluindo 2FA)
+- Integração Front-end & Back-end
+- Versionamento com Git e GitHub
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Sistemas Web com PHP e MySQL**  
+Autenticação de usuários, níveis de acesso, logs e segurança.
+
+🔹 **Aplicações Front-end com React e Angular**  
+Componentização, consumo de APIs e boas práticas de UI.
+
+🔹 **Projetos Acadêmicos e Pessoais**  
+Focados em aprendizado contínuo e aplicação prática dos conceitos estudados.
+
+📂 *Confira meus repositórios para ver a evolução dos projetos.*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mbrito0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mbrito0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mbrito0&show_icons=true&theme=dracula&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbrito0&layout=compact&theme=dracula" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" alt="Snake animation" />
+## 🐍 Atividade no GitHub
 
-###
+<img src="https://raw.githubusercontent.com/Mbrito0/Mbrito0/output/snake.svg" alt="GitHub Snake Animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mbrito0/count.svg?"  />
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Mbrito0/count.svg" />
+</p>
